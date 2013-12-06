@@ -1,0 +1,9 @@
+[
+	{ "id": 1, "name": "Smith", "Salary": 5000.00, "Gender": true },
+	{ "id": 2, "name": "John", "Salary": 4000.00, "Gender": true },
+	{ "id": 3, "name": "Lilian", "Salary": 7000.00, "Gender": false },
+	{ "id": 4, "name": "Julie", "Salary": 5000.00, "Gender": true },
+	{ "id": 5, "name": "George", "Salary": 6000.00, "Gender": true },
+	{ "id": 6, "name": "Harry", "Salary": 5000.00, "Gender": true },
+	{ "id": 7, "name": "David", "Salary": 7000.00, "Gender": true }
+]
